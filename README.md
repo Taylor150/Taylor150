@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **laurence.taylor150@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RvE6Ltgv9a-6doznnEHVA5DThJobd-K5/view](https://drive.google.com/file/d/1RvE6Ltgv9a-6doznnEHVA5DThJobd-K5/view)
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1RvE6Ltgv9a-6doznnEHVA5DThJobd-K5/view)
 
 - ⚡ Fun fact **I am very forgetful**
 
