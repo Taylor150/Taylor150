@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laurence</h1>
 <h3 align="center">A self-taught DevOps engineer from the UK</h3>
 
-- 🔭 I’m currently working on **Hangman Game**
+- 🔭 I’m currently working on **CompTIA Linux+**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & Linux**
 
 - 👯 I’m looking to collaborate on **open-source python tools**
 
