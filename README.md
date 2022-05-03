@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CompTIA Linux+**
 
-- 🌱 I’m currently learning **Python & Linux**
+- 🌱 I’m currently learning **Python, Linux and AWS**
 
 - 👯 I’m looking to collaborate on **open-source python tools**
 
@@ -13,9 +13,11 @@
 
 - 💬 Ask me about **on-premise server infrastructure**
 
-- 📫 How to reach me **laurence.taylor150@protonmail.com**
+- 📫 Reach me here **laurence.taylor150@protonmail.com**
 
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1RvE6Ltgv9a-6doznnEHVA5DThJobd-K5/view)
+- ⛓ Connect with me on [LinkedIn](https://www.linkedin.com/in/taylor150/)
+
+- 📄 Read my my [CV](http://laurences-cv.co.uk/)
 
 - ⚡ Fun fact **I am very forgetful**
 
