@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-- 🔭 I’m currently working on **CompTIA Linux+**
+- 🔭 I’m currently working on **CompTIA Cloud+**
 
 - 🌱 I’m currently learning **Python, Linux and AWS**
 
