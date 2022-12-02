@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **on-premise server infrastructure**
 
-- 📫 Reach me here **laurence.taylor150@protonmail.com**
-
 - ⛓ Connect with me on [LinkedIn](https://www.linkedin.com/in/taylor150/)
 
 - 📄 Read my my [CV](http://laurences-cv.co.uk/)
